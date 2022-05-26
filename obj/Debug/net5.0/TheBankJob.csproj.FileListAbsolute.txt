@@ -1,0 +1,16 @@
+C:\Users\rusha\workspace\csharp\TheBankJob\bin\Debug\net5.0\TheBankJob.exe
+C:\Users\rusha\workspace\csharp\TheBankJob\bin\Debug\net5.0\TheBankJob.deps.json
+C:\Users\rusha\workspace\csharp\TheBankJob\bin\Debug\net5.0\TheBankJob.runtimeconfig.json
+C:\Users\rusha\workspace\csharp\TheBankJob\bin\Debug\net5.0\TheBankJob.runtimeconfig.dev.json
+C:\Users\rusha\workspace\csharp\TheBankJob\bin\Debug\net5.0\TheBankJob.dll
+C:\Users\rusha\workspace\csharp\TheBankJob\bin\Debug\net5.0\ref\TheBankJob.dll
+C:\Users\rusha\workspace\csharp\TheBankJob\bin\Debug\net5.0\TheBankJob.pdb
+C:\Users\rusha\workspace\csharp\TheBankJob\obj\Debug\net5.0\TheBankJob.csproj.AssemblyReference.cache
+C:\Users\rusha\workspace\csharp\TheBankJob\obj\Debug\net5.0\TheBankJob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusha\workspace\csharp\TheBankJob\obj\Debug\net5.0\TheBankJob.AssemblyInfoInputs.cache
+C:\Users\rusha\workspace\csharp\TheBankJob\obj\Debug\net5.0\TheBankJob.AssemblyInfo.cs
+C:\Users\rusha\workspace\csharp\TheBankJob\obj\Debug\net5.0\TheBankJob.csproj.CoreCompileInputs.cache
+C:\Users\rusha\workspace\csharp\TheBankJob\obj\Debug\net5.0\TheBankJob.dll
+C:\Users\rusha\workspace\csharp\TheBankJob\obj\Debug\net5.0\ref\TheBankJob.dll
+C:\Users\rusha\workspace\csharp\TheBankJob\obj\Debug\net5.0\TheBankJob.pdb
+C:\Users\rusha\workspace\csharp\TheBankJob\obj\Debug\net5.0\TheBankJob.genruntimeconfig.cache
